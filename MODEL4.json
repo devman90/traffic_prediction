@@ -1,0 +1,9 @@
+{
+    "NAME": "MODEL4", 
+    "SEED": 4, 
+    "INPUT_DAYS": 2, 
+    "LEARNING_RATE": 0.0003, 
+    "DROPOUT": 0.0, 
+    "EARLYSTOP": 15, 
+    "OPTIMIZER": "rmsprop"
+}
