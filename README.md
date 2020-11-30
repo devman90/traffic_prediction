@@ -15,5 +15,5 @@
 5. 앙상블 수행
  - `python ensemble.py`
 6. 최종 제출 파일
-  1) 앙상블: output/ensemble_submission.csv
-  2) 모델3: MODEL3/submission.csv
+ - 앙상블: output/ensemble_submission.csv
+ - 모델3: MODEL3/submission.csv
